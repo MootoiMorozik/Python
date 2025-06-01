@@ -2,7 +2,7 @@ import time
 from collections import defaultdict, deque
 import telebot
 
-TOKEN = "7233027521:AAGIxnIi_zpU2fFLjL6_djhWxL_zC56ueLE"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 MAX_MSG = 5
